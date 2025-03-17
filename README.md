@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `Patch` from the [release](https://github.com/xacgbeta/Hitman3-Online-Features/releases/tag/Hitman3](https://github.com/xacgbeta/onlinefix/releases/tag/Patch). 
+1. Download the `Patch` from the [release](https://github.com/xacgbeta/onlinefix/releases/tag/Patch). 
 2. Run the `setup` file.  
 3. Create a shortcut for easier access.  
 4. Complete the installation and close the setup.  
