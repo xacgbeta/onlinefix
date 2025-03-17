@@ -12,7 +12,7 @@
 3. Create a shortcut for easier access.  
 4. Complete the installation and close the setup.  
 5. Launch `Online Patch` using the shortcut.
-6. `Browse` game directory.
+6. `Browse` game folder directory.
 7. `Search` your game.
 8. Click `Patch Game` — automation will handle the rest.
 9. Enjoy the game!🎉
