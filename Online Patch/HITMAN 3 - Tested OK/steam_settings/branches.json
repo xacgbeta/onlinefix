@@ -1,0 +1,16 @@
+[
+  {
+    "name": "public",
+    "description": "",
+    "protected": false,
+    "build_id": 15503207,
+    "time_updated": 1726136200
+  },
+  {
+    "name": "pre-release",
+    "description": "",
+    "protected": true,
+    "build_id": 15503207,
+    "time_updated": 1724752410
+  }
+]
